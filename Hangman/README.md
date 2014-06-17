@@ -51,8 +51,8 @@ Frameworks, languages, libraries and other technologies:
 *The app uses Automatic Referencs Counting (ARC). 
 
 ![Alt text](/Hangman/doc/START.png?raw=true "Start Scherm")
-![Alt text](/doc/GAME.png?raw=true „Game Scherm")
-![Alt text](/doc/WON.png?raw=true „Gewonnen Scherm")
-![Alt text](/doc/LOST.png?raw=true „Verloren Scherm”)
-![Alt text](/doc/SETTINGS.png?raw=true "Settings Scherm")
-![Alt text](/doc/HIGHSCORE.png?raw=true „Highscore Scherm”)
+![Alt text](/Hangman/doc/GAME.png?raw=true „Game Scherm")
+![Alt text](/Hangman/doc/WON.png?raw=true „Gewonnen Scherm")
+![Alt text](/Hangman/doc/LOST.png?raw=true „Verloren Scherm”)
+![Alt text](/Hangman/doc/SETTINGS.png?raw=true "Settings Scherm")
+![Alt text](/Hangman/doc/HIGHSCORE.png?raw=true „Highscore Scherm”)
